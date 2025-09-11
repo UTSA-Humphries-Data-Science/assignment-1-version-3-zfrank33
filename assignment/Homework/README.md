@@ -7,7 +7,7 @@
 
 **Instructions:**
 
-*   Complete the following tasks in the Jupyter notebook `homework_lesson_1.ipynb` using the R kernel.
+*   Complete the following tasks in the Jupyter notebook `homework_lesson_1.ipynb` using the R --version.
 *   The notebook template is already created for you in this folder.
 *   Add your code and markdown explanations in the appropriate cells.
 *   Make sure to run all cells to show your output.
